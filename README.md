@@ -16,16 +16,16 @@ I am an AI student at the University of Jordan with ambitions to master my speci
                                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
                     </p>
                     
- ### Socials  
- <p align="left">
+### Socials  
+<p align="left">
                           
-                      <a href="https://www.github.com/Basel-Anaya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/Basel-Anaya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
                           
-                      <a href="http://www.instagram.com/its_.basel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/its_.basel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.linkedin.com/in/Basel-Anaya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/Basel-Anaya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.youtube.com/c/ReverbAI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+<a href="https://www.youtube.com/c/ReverbAI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/Basel-Anaya"><img src="https://github-readme-stats.vercel.app/api?username=Basel-Anaya&show_icons=true&hide=prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Basel-Anaya's GitHub stats" /></a><a
                       href="http://www.github.com/Basel-Anaya"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=Basel-Anaya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
