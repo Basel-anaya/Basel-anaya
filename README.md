@@ -4,7 +4,7 @@ Hi 👋 My name is Basel anaya
 Artificial Intelligence Major
 -----------------------------
 
-I am an AI student at the University of Jordan with ambitions to master my specialization and skills. I have great knowledge and experience in coding, research skills, problem solving, I dream big and work hard.
+I am an AI student at the University of Jordan, I have ambitions to master my specialization and skills, I got great knowledge and experience in coding, research skills, problem solving, I dream big and work hard.
 
 *   🌍  I'm based in Amman, Jordan
 *   ✉️  You can contact me at [baselanaya@gmail.com](mailto:baselanaya@gmail.com)
@@ -36,8 +36,8 @@ I am an AI student at the University of Jordan with ambitions to master my speci
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Basel-Anaya/Natural-Language-Processing-with-NLTK" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Basel-Anaya&repo=Natural-Language-Processing-with-NLTK&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Basel-Anaya/Roadmap-to-Machine-Learning-and-Deep-Learning" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Basel-Anaya&repo=Roadmap-to-Machine-Learning-and-Deep-Learning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Basel-Anaya/Natural-Language-Processing-with-NLTK" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Basel-Anaya&repo=Natural-Language-Processing-with-NLTK&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Basel-Anaya/Roadmap-to-Machine-Learning-and-Deep-Learning" align="right"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Basel-Anaya&repo=Roadmap-to-Machine-Learning-and-Deep-Learning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Basel-Anaya/Introduction-to-Machine-learning" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Basel-Anaya&repo=Introduction-to-Machine-learning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Basel-Anaya/Introduction-to-Machine-learning" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Basel-Anaya&repo=Introduction-to-Machine-learning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
