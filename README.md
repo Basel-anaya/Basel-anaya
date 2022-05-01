@@ -40,4 +40,4 @@ I am an AI student at the University of Jordan, I have ambitions to master my sp
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Basel-Anaya/Introduction-to-Machine-learning" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Basel-Anaya&repo=Introduction-to-Machine-learning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Basel-anaya/linkedin-skill-assessments-quizzes" align="left"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Basel-Anaya&repo=linkedin-skill-assessments-quizzes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
