@@ -11,7 +11,7 @@ Artificial Intelligence Major
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 
-I am an Artificial intelligence student at the University of Jordan, I have ambitions to master my specialization and skills, I got great knowledge and experience in coding, research skills, problem solving, I dream big and work hard.
+I am a student at the University of Jordan currently an Artificial intelligence major. I am passionate about pursuing my goal to get a job in the Machine learning field after graduating and reach my ultimate goal of taking a master degree in AI in healthcare.
 
 *   🌍  I'm based in Amman, Jordan
 *   ✉️  You can contact me at [baselanaya@gmail.com](mailto:baselanaya@gmail.com)
