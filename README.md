@@ -17,7 +17,11 @@ I am an AI student at the University of Jordan, I have ambitions to master my sp
 
 ## Socials
 
-<p align="left"> <a href="https://www.github.com/Basel-Anaya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/its_.basel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Basel-Anaya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCZ66MREnm-MsncYLJssBpTQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+[![Linkedin Badge](https://img.shields.io/badge/-basel-anaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/basel-anaya/)](https://www.linkedin.com/in/basel-anaya/)
+[![Instagram Badge](https://img.shields.io/badge/-x7uv5-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/x7uv5/)](https://instagram.com/x7uv5)
+[![Youtube Badge](https://img.shields.io/badge/-ReverbAI-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ReverbAI)](https://www.youtube.com/c/ReverbAI)
+[![Medium Badge](https://img.shields.io/badge/-@Baselanaya-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Baselanaya/)](https://medium.com/@Baselanaya)
+[![Gmail Badge](https://img.shields.io/badge/-baselanaya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baselanaya@gmail.com)](mailto:baselanaya@gmail.com)
 
 ## Badges
 
