@@ -17,11 +17,8 @@ I am an AI student at the University of Jordan, I have ambitions to master my sp
 
 ## Socials
 
-[![Linkedin Badge](https://img.shields.io/badge/-baselanaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/basel-anaya/)](https://www.linkedin.com/in/basel-anaya/)
-[![Instagram Badge](https://img.shields.io/badge/-x7uv5-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/x7uv5/)](https://instagram.com/x7uv5)
-[![Youtube Badge](https://img.shields.io/badge/-ReverbAI-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ReverbAI)](https://www.youtube.com/c/ReverbAI)
-[![Medium Badge](https://img.shields.io/badge/-@Baselanaya-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Baselanaya/)](https://medium.com/@Baselanaya)
-[![Gmail Badge](https://img.shields.io/badge/-baselanaya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baselanaya@gmail.com)](mailto:baselanaya@gmail.com)
+<p><a href="https://github.com/Basel-anaya" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/baselanaya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/basel-anaya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@Baselanaya" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
 ## Badges
 
