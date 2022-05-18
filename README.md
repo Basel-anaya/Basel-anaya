@@ -17,7 +17,7 @@ I am an AI student at the University of Jordan, I have ambitions to master my sp
 
 ## Socials
 
-[![Linkedin Badge](https://img.shields.io/badge/-basel-anaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/basel-anaya/)](https://www.linkedin.com/in/basel-anaya/)
+[![Linkedin Badge](https://img.shields.io/badge/-baselanaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/basel-anaya/)](https://www.linkedin.com/in/basel-anaya/)
 [![Instagram Badge](https://img.shields.io/badge/-x7uv5-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/x7uv5/)](https://instagram.com/x7uv5)
 [![Youtube Badge](https://img.shields.io/badge/-ReverbAI-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ReverbAI)](https://www.youtube.com/c/ReverbAI)
 [![Medium Badge](https://img.shields.io/badge/-@Baselanaya-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@Baselanaya/)](https://medium.com/@Baselanaya)
