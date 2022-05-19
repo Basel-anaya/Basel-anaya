@@ -24,7 +24,18 @@ I am a student at the University of Jordan currently an Artificial intelligence 
 If you like what i do, maybe consider buying me a coffee/tea 👉👈
 
 <a href="https://www.buymeacoffee.com/Baselanaya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
-
+<pre>
+┌──┤ PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/Basel-anaya/seeker">Soon</a>
+├─◈ <a href="https://github.com/Basel-anaya/FinalRecon">Soon</a>
+├─◈ <a href="https://github.com/Basel-anaya/nexfil">Soon</a>
+├─◈ <a href="https://github.com/Basel-anaya/pwnedornot">Soon</a>
+├─◈ <a href="https://github.com/Basel-anaya/killcast">Soon</a>
+├─◈ <a href="https://github.com/Basel-anaya/flashsploit">Soon</a>
+│
+└───────────────────────────────▰▰▰
+</pre>
 ## Socials
 
 <p><a href="https://github.com/Basel-anaya" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/baselanaya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/basel-anaya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@Baselanaya" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
