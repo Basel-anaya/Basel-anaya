@@ -8,7 +8,7 @@
 
 <h2 align="center">Artificial Intelligence Major</h2>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 
 I am a student at the University of Jordan currently an Artificial intelligence major. I am passionate about pursuing my goal to get a job in the Machine learning field after graduating and reach my ultimate goal of taking a master degree in AI in healthcare.
 
