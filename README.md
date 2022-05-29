@@ -10,7 +10,7 @@
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 
-<h4 align="center"> I am a student at the University of Jordan currently an Artificial intelligence major. I am passionate about pursuing my goal to get a job in the Machine learning field after graduating and reach my ultimate goal of taking a master degree in AI in healthcare.</h4>
+<h4 align="center"> I am a student at the University of Jordan, currently an artificial intelligence major. I am passionate about pursuing my goal to get a job in the machine learning field after graduating and reach my ultimate goal of taking a master's degree in AI in healthcare.</h4>
 
 *   🌍  I'm based in Amman, Jordan
 *   ✉️  You can contact me at [baselanaya@gmail.com](mailto:baselanaya@gmail.com)
