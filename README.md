@@ -76,7 +76,7 @@ If you like what i do, maybe consider buying me a coffee/tea 👉👈
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Basel-anaya/Natural-Language-Processing-with-NLTK-JU-Course" title="Natural-Language-Processing-with-NLTK"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Basel-anaya&repo=Natural-Language-Processing-with-NLTK-JU-Course&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Basel-anaya/Computer-Science-Courses" title="Computer-Science-Courses"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Basel-anaya&repo=Computer-Science-Courses&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Basel-anaya/CS156-Machine-Learning-Caltech" title="CS156 Machine Learning Caltech Notes"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Basel-anaya&repo=CS156-Machine-Learning-Caltech&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
