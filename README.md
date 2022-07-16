@@ -31,7 +31,7 @@ If you like what i do, maybe consider buying me a coffee/tea 👉👈
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/Basel-anaya/California-Housing-Prices-ML-project">California Houses prices prediction</a>
-├─◈ <a href="https://github.com/Basel-anaya/FinalRecon">Soon</a>
+├─◈ <a href="https://github.com/Basel-anaya/Breast_Cancer_Prediction">Breast Cancer Prediction</a>
 ├─◈ <a href="https://github.com/Basel-anaya/nexfil">Soon</a>
 ├─◈ <a href="https://github.com/Basel-anaya/pwnedornot">Soon</a>
 ├─◈ <a href="https://github.com/Basel-anaya/killcast">Soon</a>
