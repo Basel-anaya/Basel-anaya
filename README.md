@@ -30,10 +30,10 @@ If you like what i do, maybe consider buying me a coffee/tea 👉👈
 <pre>
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/Basel-anaya/California-Housing-Prices-ML-project">California Houses prices prediction</a>
+├─◈ <a href="https://github.com/Basel-anaya/Digits-Recognizer-using-CNN">Digits Recognizer using CNN</a>
 ├─◈ <a href="https://github.com/Basel-anaya/Breast-Cancer-Prediction-Project">Breast Cancer Prediction</a>
-├─◈ <a href="https://github.com/Basel-anaya/nexfil">Soon</a>
-├─◈ <a href="https://github.com/Basel-anaya/pwnedornot">Soon</a>
+├─◈ <a href="https://colab.research.google.com/drive/1xPzCFpL5rZxkfI21E6g38XjYYJQgUh-4?usp=sharing">Data analysis on Data scientists job salaries</a>
+├─◈ <a href="https://github.com/Basel-anaya/California-Housing-Prices-ML-project">California Houses prices prediction</a>
 ├─◈ <a href="https://github.com/Basel-anaya/killcast">Soon</a>
 ├─◈ <a href="https://github.com/Basel-anaya/flashsploit">Soon</a>
 │
