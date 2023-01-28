@@ -31,11 +31,12 @@ If you like what i do, maybe consider buying me a coffee/tea 👉👈
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/Basel-anaya/Digits-Recognizer-using-CNN">Digits Recognizer using CNN</a>
-├─◈ <a href="https://github.com/Basel-anaya/Breast-Cancer-Prediction-Project">Breast Cancer Prediction</a>
-├─◈ <a href="https://colab.research.google.com/drive/1xPzCFpL5rZxkfI21E6g38XjYYJQgUh-4?usp=sharing">Data analysis on Data scientists job salaries</a>
-├─◈ <a href="https://github.com/Basel-anaya/California-Housing-Prices-ML-project">California Houses prices prediction</a>
-├─◈ <a href="https://github.com/Basel-anaya/killcast">Soon</a>
-├─◈ <a href="https://github.com/Basel-anaya/flashsploit">Soon</a>
+├─◈ <a href="https://github.com/Basel-anaya/Food-Vision-Project">Food Vision</a>
+├─◈ <a href="https://github.com/Basel-anaya/Tracking-and-Counting-using-YOLOv8">Tracking and Counting using YOLOv8</a>
+├─◈ <a href="https://github.com/Basel-anaya/Chest-X-Ray-Pneumonia-using-CNN-and-Transfer-Learning">Chest X-ray Pneumonia using CNN & TransferLearning</a>
+├─◈ <a href="https://github.com/Basel-anaya/killcast">VizDoom</a>
+├─◈ <a href="https://github.com/Basel-anaya/Object-Detection-using-Flask-OpenCV-MongoDB">Object-Detection-using-Flask-OpenCV-MongoDB</a>
+├─◈ <a href="https://github.com/Basel-anaya/CancerSegmentationAPI">CancerSegmentationAPI</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
