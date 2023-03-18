@@ -30,11 +30,12 @@ If you like what i do, maybe consider buying me a coffee/tea 👉👈
 <pre>
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/Basel-anaya/Digits-Recognizer-using-CNN">Digits Recognizer using CNN</a>
+├─◈ <a href="https://github.com/Basel-anaya/LipNet-End-to-End-Sentence-level-Lipreading">LipNet End-to-End Sentence level Lipreading</a>
 ├─◈ <a href="https://github.com/Basel-anaya/Food-Vision-Project">Food Vision</a>
+├─◈ <a href="https://github.com/Basel-anaya/EEG-Schizophrenia-Disorder-using-CNN">EEG Schizophrenia Disorder using CNN</a>
+├─◈ <a href="https://github.com/Basel-anaya/killcast">VizDoom</a>
 ├─◈ <a href="https://github.com/Basel-anaya/Tracking-and-Counting-using-YOLOv8">Tracking and Counting using YOLOv8</a>
 ├─◈ <a href="https://github.com/Basel-anaya/Chest-X-Ray-Pneumonia-using-CNN-and-Transfer-Learning">Chest X-ray Pneumonia using CNN & TransferLearning</a>
-├─◈ <a href="https://github.com/Basel-anaya/killcast">VizDoom</a>
 ├─◈ <a href="https://github.com/Basel-anaya/Object-Detection-using-Flask-OpenCV-MongoDB">Object-Detection-using-Flask-OpenCV-MongoDB</a>
 ├─◈ <a href="https://github.com/Basel-anaya/CancerSegmentationAPI">CancerSegmentationAPI</a>
 │
