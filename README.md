@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h2 align="center">Data scientist intern</h2>
+<h2 align="center">Machine Learning Engineer </h2>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 
@@ -27,8 +27,12 @@
 <h2 align="center"> Donations </h2>
 If you like what i do, maybe consider buying me a coffee/tea 👉👈
 
-<a align="center" href="https://www.buymeacoffee.com/Baselanaya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
+<a href="https://www.buymeacoffee.com/Baselanaya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
 <pre>
+
+
+<h2 align="center"> My Projects </h2>
+
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/Basel-anaya/LipNet-End-to-End-Sentence-level-Lipreading">LipNet End-to-End Sentence level Lipreading</a>
