@@ -14,11 +14,11 @@
 
 *   🌍  I'm based in Amman, Jordan
 *   ✉️  You can contact me at [baselanaya@gmail.com](mailto:baselanaya@gmail.com)
-*   🧠  I'm learning Machine Learning, Deep Learning and AI
-*   🤝  I'm open to collaborating on AI Graduation Project
+*   🧠  I'm learning Large Language model and Transformers
+*   🤝  I'm open to collaborating on Computer vision / NLP projects
 
 <h2 align="center"> Portfolio </h3>
-<a align="center" href="Null"> Under Constuction </a>
+<a align="center" href="Null"> Under Construction </a>
 
 <h3 align="left">Languages and Tools:</h3>
 
