@@ -27,7 +27,7 @@
 <h2 align="center"> Donations </h2>
 If you like what i do, maybe consider buying me a coffee/tea 👉👈
 
-<a href="https://www.buymeacoffee.com/Baselanaya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
+<a align="center" href="https://www.buymeacoffee.com/Baselanaya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
 <pre>
 ┌──┤ PROJECTS ├───────▰▰▰
 │
