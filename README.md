@@ -40,8 +40,8 @@ If you like what i do, maybe consider buying me a coffee/tea 👉👈
 ├─◈ <a href="https://github.com/Basel-anaya/EEG-Schizophrenia-Disorder-using-CNN">EEG Schizophrenia Disorder using CNN</a>
 ├─◈ <a href="https://github.com/Basel-anaya/killcast">VizDoom</a>
 ├─◈ <a href="https://github.com/Basel-anaya/Tracking-and-Counting-using-YOLOv8">Tracking and Counting using YOLOv8</a>
-├─◈ <a href="https://github.com/Basel-anaya/Chest-X-Ray-Pneumonia-using-CNN-and-Transfer-Learning">Chest X-ray Pneumonia using CNN & TransferLearning</a>
-├─◈ <a href="https://github.com/Basel-anaya/Object-Detection-using-Flask-OpenCV-MongoDB">Object-Detection-using-Flask-OpenCV-MongoDB</a>
+├─◈ <a href="https://github.com/Basel-anaya/Chest-X-Ray-Pneumonia-using-CNN-and-Transfer-Learning">Chest X-ray Pneumonia using CNN & Transfer Learning</a>
+├─◈ <a href="https://github.com/Basel-anaya/Object-Detection-using-Flask-OpenCV-MongoDB">Object Detection using Flask & OpenCV & MongoDB</a>
 ├─◈ <a href="https://github.com/Basel-anaya/CancerSegmentationAPI">CancerSegmentationAPI</a>
 │
 └───────────────────────────────▰▰▰
