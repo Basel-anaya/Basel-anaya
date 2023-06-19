@@ -18,22 +18,21 @@
 *   ✉️  You can contact me at [baselanaya@gmail.com](mailto:baselanaya@gmail.com)
 *   🧠  I'm learning Large Language model and Transformers
 *   🤝  I'm open to collaborating on Computer vision / NLP projects
-
+<br><br>
 <h2 align="center"> Portfolio </h3>
 <a align="center" href="Null"> Under Construction </a>
-
+<br><br>
 <h2 align="center">Languages and Tools:</h2>
 
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupiter notebook" width="40" height="40"/> </a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a></p>
-
+<br><br>
 <h2 align="center"> Donations </h2>
 If you like what i do, maybe consider buying me a coffee/tea 👉👈
 
 <a href="https://www.buymeacoffee.com/Baselanaya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
-<br>
+<br><br>
 <pre>
 <h2 align="center"> My Projects </h2>
-
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/Basel-anaya/LipNet-End-to-End-Sentence-level-Lipreading">LipNet End-to-End Sentence level Lipreading</a>
@@ -47,12 +46,13 @@ If you like what i do, maybe consider buying me a coffee/tea 👉👈
 │
 └───────────────────────────────▰▰▰
 </pre>
+<br><br>
 <h2 align="center"> Socials </h2>
 
 <p><a href="https://github.com/Basel-anaya" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/baselanaya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/basel-anaya" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@Baselanaya" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UCZ66MREnm-MsncYLJssBpTQ" target="_blank"> <img alt="Youtube" src="https://img.shields.io/badge/Youtube-%2312100E.svg?&style=for-the-badge&logo=Youtube&logoColor=red"/> </a>
 </p>
 
-
+<br><br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -60,11 +60,11 @@ If you like what i do, maybe consider buying me a coffee/tea 👉👈
     <a href="https://github.com/Basel-anaya/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Basel-anaya&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Basel-anaya&theme=algolia&show_icons=true&locale=en" alt="Baselanaya" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Basel-anaya&theme=algolia&show_icons=true&locale=en&layout=compact" alt="Baselanaya" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Basel-anaya&theme=algolia&show_icons=true&locale=en&layout=compact" alt="Baselanaya" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Basel-anaya&theme=algolia&show_icons=true&locale=en" alt="Baselanaya" />
   </div>
   <br>
 </p>
