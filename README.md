@@ -18,15 +18,19 @@
 *   ✉️  You can contact me at [baselanaya@gmail.com](mailto:baselanaya@gmail.com)
 *   🧠  I'm learning Large Language model and Transformers
 *   🤝  I'm open to collaborating on Computer vision / NLP projects
+
   
-<br><br>
+<br>
+
 
 <h2 align="center"> Portfolio </h3>
 <p align="center">
   <a align="center" href="Null"> Under Construction </a>
 </p>
 
-<br><br>
+
+<br>
+
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
@@ -65,7 +69,9 @@
   </a>
 </p>
 
+
 <br>
+
 
 <h2 align="center"> Donations </h2>
 <div align=center>
@@ -76,7 +82,9 @@ If you like what i do, maybe consider buying me a coffee/tea 👉👈
   <a href="https://www.buymeacoffee.com/Baselanaya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
 </div>
 
+
 <br>
+
 
 <pre>
 <h2 align="center"> My Projects </h2>
@@ -116,6 +124,7 @@ If you like what i do, maybe consider buying me a coffee/tea 👉👈
     <img alt="Youtube" src="https://img.shields.io/badge/Youtube-%2312100E.svg?&style=for-the-badge&logo=Youtube&logoColor=red"/> 
   </a>
 </p>
+
 
 <br>
 
