@@ -8,9 +8,11 @@
 
 <h2 align="center">Machine Learning Engineer </h2>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+<div align=center>
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
+</div>
 
-<h4 align="center"> I am a data scientist intern at ShAI. I am enthusiastic about pursuing my aim of working as a machine learning engineer after graduation </h4>
+<h4 align="center"> I am a Machine Learning Engineer at Reverb.ai, and I am enthusiastic about pursuing my aim of continuing in the field of AI in medicine after graduation. </h4>
 
 *   🌍  I'm based in Amman, Jordan
 *   ✉️  You can contact me at [baselanaya@gmail.com](mailto:baselanaya@gmail.com)
@@ -28,9 +30,8 @@
 If you like what i do, maybe consider buying me a coffee/tea 👉👈
 
 <a href="https://www.buymeacoffee.com/Baselanaya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
+<br>
 <pre>
-
-
 <h2 align="center"> My Projects </h2>
 
 ┌──┤ PROJECTS ├───────▰▰▰
@@ -59,34 +60,11 @@ If you like what i do, maybe consider buying me a coffee/tea 👉👈
     <a href="https://github.com/Basel-anaya/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Basel-anaya&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <a href="https://github.com/Basel-anaya/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Basel-anaya&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Basel-anaya&theme=algolia&show_icons=true&locale=en" alt="Baselanaya" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/Basel-anaya/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basel-anaya&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Basel-anaya&theme=algolia&show_icons=true&locale=en&layout=compact" alt="Baselanaya" />
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Basel-anaya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-
-<b>Top Repositories</b>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Basel-anaya/Roadmap-to-AI" title="Roadmap to AI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Basel-anaya&repo=Roadmap-to-AI&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Basel-anaya/AI-Courses" title="AI Courses"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Basel-anaya&repo=AI-Courses&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Basel-anaya/Computer-Science-Courses" title="Computer-Science-Courses"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Basel-anaya&repo=Computer-Science-Courses&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Basel-anaya/CS156-Machine-Learning-Caltech" title="CS156 Machine Learning Caltech Notes"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Basel-anaya&repo=CS156-Machine-Learning-Caltech&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br><br><br><br><br><br>
-<h4 align="center">
-  <a href="https://github.com/Basel-anaya?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
