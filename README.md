@@ -12,7 +12,7 @@
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
 </div>
 
-<h4 align="center"> I am a Machine Learning Engineer at Reverb.ai, and I am enthusiastic about pursuing my aim of continuing in the field of AI in medicine after graduation. </h4>
+<h4 align="center"> I am a founder at MedFormer, and I am enthusiastic about pursuing my aim of continuing in the field of AI in medicine after graduation. </h4>
 
 *   🌍  I'm based in Amman, Jordan
 *   ✉️  You can contact me at [baselanaya@gmail.com](mailto:baselanaya@gmail.com)
